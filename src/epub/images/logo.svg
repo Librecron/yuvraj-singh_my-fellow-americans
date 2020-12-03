@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="256" version="1.1" width="256">
+	<title>The Librecron logo</title>
+	<desc>The logo displays a circle with the letters "pd" inside of it. There is a single, thick black line in the middle with a circle at the top right to represent the "p" and a circle at the bottom left to represent the "d". The logo iteslf is a public domain symbol that is made available with a CC0 license by its creator, <a href="https://commons.wikimedia.org/wiki/User_talk:Yotoen">Yotoen</a>.</desc>
+	<g>
+		<path d="M 128,16 C 66.144,16 16,66.144 16,128 16,189.855 66.144,240 128,240 189.855,240 240,189.855 240,128 240,66.144 189.855,16 128,16 z m 0,208 c -53.02,0 -96,-42.98 -96,-96 0,-53.02 42.98,-96 96,-96 53.02,0 96,42.98 96,96 0,53.02 -42.98,96 -96,96 z"/>
+		<path d="m 160,56 c -22.092,0 -40,17.909 -40,40 0,22.091 17.908,40 40,40 22.092,0 40,-17.909 40,-40 0,-22.091 -17.908,-40 -40,-40 z m 0,64 c -13.255,0 -24,-10.745 -24,-24 0,-13.255 10.745,-24 24,-24 13.255,0 24,10.745 24,24 0,13.255 -10.745,24 -24,24 z"/>
+		<path d="m 96,120 c -22.092,0 -40,17.908 -40,40 0,22.092 17.908,40 40,40 22.092,0 40,-17.908 40,-40 0,-22.092 -17.908,-40 -40,-40 z m 0,64 c -13.255,0 -24,-10.745 -24,-24 0,-13.255 10.745,-24 24,-24 13.255,0 24,10.745 24,24 0,13.255 -10.745,24 -24,24 z"/>
+		<rect height="144" width="16" x="120" y="56"/>
+	</g>
+</svg>
