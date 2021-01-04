@@ -51,13 +51,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Yuvraj_Singh</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URL</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		
 		<dc:contributor id="transcriber-1">James Linden</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
