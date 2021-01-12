@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">My Fellow Citizens</dc:title>
-		<meta property="file-as" refines="#title">My Fellow Citizens</meta>
+		<dc:title id="title">My Fellow Americans</dc:title>
+		<meta property="file-as" refines="#title">My Fellow Americans</meta>
 		<dc:subject id="subject-1">Presidents -- United States -- Inaugural addresses</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85106478</meta>

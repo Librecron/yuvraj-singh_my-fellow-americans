@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Librecron edition of My Fellow Citizens, by Yuvraj Singh</title>
+	<title>The cover for the Librecron edition of My Fellow Americans, by Yuvraj Singh</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -24,6 +24,6 @@
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
 	<text class="title" x="700" y="1775">MY FELLOW</text>
-	<text class="title" x="700" y="1875">CITIZENS</text>
+	<text class="title" x="700" y="1875">AMERICANS</text>
 	<text class="author" x="700" y="1975">YUVRAJ SINGH</text>
 </svg>
