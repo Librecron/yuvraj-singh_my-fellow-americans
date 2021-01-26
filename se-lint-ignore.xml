@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-*.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<code>t-030</code>
+			<code>t-042</code>
+			<code>t-029</code>
+			<reason>Error checking.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
